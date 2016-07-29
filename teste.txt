@@ -1,4 +1,8 @@
 Linha 1
 Linha 2
+<<<<<<< HEAD
 Linha 3
 Linha 4
+=======
+Linha 3_1
+>>>>>>> a7f22b89c81d7011b704d778067fe383d876605e
